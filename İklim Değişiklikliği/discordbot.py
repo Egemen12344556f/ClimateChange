@@ -102,4 +102,4 @@ async def check(ctx):
 
 
 
-bot.run("MTIwNTE5MTgyMTI2MTgwMzU2MQ.GybbCQ.nzmAxCH4w9UGrbr2E7DhtFle9E-D2WnmQxna7Y")
+bot.run("Çalammassın Furkan!! :)")
